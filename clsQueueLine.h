@@ -7,6 +7,8 @@
 #include "E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsDate.h"
 using namespace std;
 
+// Queue-Management-System - 14/11/2025 - Developer: Mr.Key47
+
 // Issue and Serve Tickets:
 // - handle queue's Ticket
 // - handle Line's Info Process
