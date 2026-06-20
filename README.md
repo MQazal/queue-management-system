@@ -1,5 +1,5 @@
 # queue-management-system
-<br>About:
+About:
 This project simulates a real-world service queue — like a bank or government office — where clients take numbered tickets and are served in order.
 
 Features:
