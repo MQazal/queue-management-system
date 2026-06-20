@@ -10,6 +10,6 @@ Features:
 <li>Print queue left-to-right and right-to-left.</li>
 <li>Display a full line summary panel.</li>
 
-<br>How It Works:
+<br>How It Works:<br>
 Client arrives → IssueTicket() → gets ticket (ID + wait time estimate)<br>
 Teller ready  → ServeNextClient() → removes front client from queue
