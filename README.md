@@ -1,6 +1,6 @@
 # queue-management-system
-About:<br>
-This project simulates a real-world service queue — like a bank or government office — where clients take numbered tickets and are served in order.
+About:
+<br>This project simulates a real-world service queue — like a bank or government office — where clients take numbered tickets and are served in order.
 
 Features:
 <li>Issue tickets with unique IDs (e.g. A1, A2).</li>
