@@ -11,5 +11,5 @@ Features:
 <li>Display a full line summary panel.</li>
 
 <br>How It Works:
-<li>Client arrives → IssueTicket() → gets ticket (ID + wait time estimate)</li>
-<li>Teller ready  → ServeNextClient() → removes front client from queue</li>
+Client arrives → IssueTicket() → gets ticket (ID + wait time estimate)<br>
+Teller ready  → ServeNextClient() → removes front client from queue
